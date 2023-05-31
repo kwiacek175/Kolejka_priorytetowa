@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "projekt_1_kolejka_priorytetowa",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "projekt_1_kolejka_priorytetowa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-projekt_1_kolejka_priorytetowa-Debug-46c019cc3093b3a3ae82.json",
+					"name" : "projekt_1_kolejka_priorytetowa",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/kacpe/CLionProjects/projekt_1_kolejka_priorytetowa/cmake-build-debug",
+		"source" : "C:/Users/kacpe/CLionProjects/projekt_1_kolejka_priorytetowa"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
