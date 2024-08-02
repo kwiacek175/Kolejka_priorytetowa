@@ -1,0 +1,3 @@
+C:/Users/Kacper/CLionProjects/Kolejka_priorytetowa/cmake-build-debug/CMakeFiles/Kolejka_priorytetowa.dir
+C:/Users/Kacper/CLionProjects/Kolejka_priorytetowa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/CLionProjects/Kolejka_priorytetowa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
